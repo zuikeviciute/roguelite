@@ -1,0 +1,5 @@
+Laura	600
+Laura	700
+Laura	820
+Laura	450
+Laura	980

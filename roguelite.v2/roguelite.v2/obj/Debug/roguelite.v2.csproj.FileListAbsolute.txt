@@ -1,0 +1,147 @@
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csprojAssemblyReference.cache
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+C:\Users\lil-nib\source\repos\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+C:\roguelite\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+C:\roguelite\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+C:\roguelite\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csprojAssemblyReference.cache
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+C:\roguelite\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csprojAssemblyReference.cache
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+D:\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csprojAssemblyReference.cache
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+D:\Game makin\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csprojAssemblyReference.cache
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+C:\roguelite\LauraZuikeviciute_smallscalleapp\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csprojAssemblyReference.cache
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+C:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.AssemblyReference.cache
+D:\roguelite\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.CoreCompileInputs.cache
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.AssemblyReference.cache
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.CoreCompileInputs.cache
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+D:\roguelite (all versions)\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe.config
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.exe
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\bin\Debug\roguelite.v2.pdb
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.AssemblyReference.cache
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.g.cs
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.g.cs
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\App.g.cs
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.cache
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2_MarkupCompile.lref
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\MainWindow.baml
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\StartingWindow.baml
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.g.resources
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.Properties.Resources.resources
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.GenerateResource.cache
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.csproj.CoreCompileInputs.cache
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.exe
+D:\study notes\C#\roguelite-v3\roguelite.v2\roguelite.v2\obj\Debug\roguelite.v2.pdb

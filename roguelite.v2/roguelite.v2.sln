@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roguelite.v2", "roguelite.v2\roguelite.v2.csproj", "{B3539930-9D84-4150-9230-E56C28B6F163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3539930-9D84-4150-9230-E56C28B6F163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3539930-9D84-4150-9230-E56C28B6F163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3539930-9D84-4150-9230-E56C28B6F163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3539930-9D84-4150-9230-E56C28B6F163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8745588C-CEA7-4E36-9507-69FA2A592DE5}
+	EndGlobalSection
+EndGlobal
